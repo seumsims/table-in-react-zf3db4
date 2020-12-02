@@ -6,6 +6,8 @@ export default function App() {
     <div>
       <h1>SALAMOON</h1>
       
+      <h1>SALAMOON</h1>
+      
     </div>
   );
 }
